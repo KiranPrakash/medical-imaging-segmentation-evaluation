@@ -1,0 +1,13 @@
+﻿Build started 4/30/2016 8:37:46 PM.
+     1>Project "C:\Users\Kiran\Desktop\Documents\UCF\Academics\Medical Imaging Analysis\Final Project\GridCut-1\GridCut-1.3\examples\ex2-segmentation\ex2-segmentation-vs2013.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\include /I..\include /ZI /nologo /W3 /WX- /Od /Oy- /D DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"obj\Debug\\" /Fd".\ex2-segmentation.pdb" /Gd /TP /analyze- /errorReport:prompt /wd4996 /wd4244 "ex2-segmentation.cpp"
+         ex2-segmentation.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\ex2-segmentation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\ex2-segmentation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:".\ex2-segmentation.lib" /MACHINE:X86 "obj\Debug\ex2-segmentation.obj"
+         ex2-segmentation-vs2013.vcxproj -> C:\Users\Kiran\Desktop\Documents\UCF\Academics\Medical Imaging Analysis\Final Project\GridCut-1\GridCut-1.3\examples\ex2-segmentation\.\ex2-segmentation.exe
+     1>Done Building Project "C:\Users\Kiran\Desktop\Documents\UCF\Academics\Medical Imaging Analysis\Final Project\GridCut-1\GridCut-1.3\examples\ex2-segmentation\ex2-segmentation-vs2013.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.61
